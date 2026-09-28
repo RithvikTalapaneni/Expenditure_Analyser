@@ -12,7 +12,7 @@ SpendDNA analyzes six months of Indian bank/UPI transaction data and transforms 
 
 ## 📌 Project Overview
 
-SpendDNA was built as part of **The Unlox Academy — Week 2 Industry-Graded Minor Project**.
+SpendDNA was built as part of **Industry-Graded Minor Project**.
 
 The project works with a synthetic transaction dataset representing **Rahul Sharma**, a Bengaluru-based software engineer, and processes raw bank/UPI transaction data using **Python, Pandas, and NumPy**.
 
